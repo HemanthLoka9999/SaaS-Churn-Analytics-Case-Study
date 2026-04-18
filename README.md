@@ -28,16 +28,21 @@ Identify **early churn signals** and quantify **business impact (MRR at risk)**.
 4. **Intelligence:** Python generates visual insights in `/visuals`
 
 ---
-
 ## 📊 Key Insights
 
-### 🔍 High-Level Business Insights
+![Revenue at Risk](visuals/05_revenue_at_risk.png)
 
-* User engagement shows a clear **post-onboarding drop-off**, indicating weak early retention
-* **Session inactivity (gap days)** emerges as the strongest early predictor of churn
-* **Low engagement users** contribute disproportionately to churn rates
-* A significant portion of revenue is linked to **inactive but still subscribed users**
-* Feature usage alone is not a strong retention driver, suggesting deeper behavioral patterns at play
+> 💰 **~35% of active revenue is tied to users inactive for 7+ days — indicating immediate retention risk.**
+
+---
+
+### 🔍 High-Level Insights
+
+- User engagement declines after initial adoption, with visible drop-offs in DAU trends  
+- Users inactive for **4–7 days (~37% of MRR)** show early signs of churn risk  
+- Users inactive for **7+ days (~35% of MRR)** represent the most critical segment  
+- Lower engagement users consistently show higher churn rates across segments  
+- Feature usage alone does not significantly differentiate retention, suggesting deeper behavioral factors  
 
 ---
 
