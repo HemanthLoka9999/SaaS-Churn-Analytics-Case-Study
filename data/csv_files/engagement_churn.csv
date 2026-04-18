@@ -1,0 +1,4 @@
+engagement,total_users,churned_users,churn_rate
+Low,11667,11667,1.0
+High,11666,9991,0.86
+Medium,11667,8713,0.75

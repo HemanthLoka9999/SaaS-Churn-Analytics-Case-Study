@@ -1,0 +1,4 @@
+risk_profile,user_count,total_mrr_at_risk
+Critical Risk (7+ Days),1692,75523.08
+Healthy (0-3 Days),1276,57817.24
+Warning (4-7 Days),1661,78953.39

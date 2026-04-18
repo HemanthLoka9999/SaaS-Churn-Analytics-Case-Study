@@ -1,0 +1,5 @@
+feature_used,active_users,churned_users,total_users,churn_rate
+Export_Report,4628,30176,34804,86.7
+API_Call,4628,30143,34771,86.69
+Dashboard_View,4629,30152,34781,86.69
+Settings_Change,4628,30154,34782,86.69
