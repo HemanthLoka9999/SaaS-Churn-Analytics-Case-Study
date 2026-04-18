@@ -173,12 +173,16 @@ Early detection of churn risk
 
 ```
 
-├── sql_queries/
-├── scripts/
+├── sql_queries/ # 16 SQL scripts covering exploration → churn → revenue analysis
+├── scripts/ # Python scripts for data generation and visualization
 ├── data/
-├── visuals/
-├── exploration/
-└── README.md
+│ ├── raw/ # Sample input datasets (activity, subscription, users)
+│ └── csv_files/ # Processed outputs used for visualization
+├── visuals/ # Final charts used in README (DAU, churn, revenue risk)
+├── exploration/ # Schema checks and intermediate query/debug outputs
+├── notebooks/ # Jupyter notebook for visual exploration (optional analysis)
+├── requirements.txt # Python dependencies required to run the project
+└── README.md # Project documentation and business insights
 
 ```
 
